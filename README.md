@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile developer from Indonesia 
   <br></br>
 <img align="center" alt="coding" width="600" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
-  </h3>
+ 
 
 <p align="center"></p>
 
@@ -14,3 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbubi69&" alt="mahbubi69" /></p>
+ </h3>
