@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahbubi Bashar</h1>
-<h3 align="center">A passionate Mobile developer from Indonesia</h3>
+<h3 align="center">A passionate Mobile developer from Indonesia 
+  <br></br>
 <img align="center" alt="coding" width="600" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
+  </h3>
 
 <p align="center"></p>
 
