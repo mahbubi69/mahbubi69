@@ -14,7 +14,7 @@
     
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical) -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical"/>
   
 
 
