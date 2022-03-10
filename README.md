@@ -13,7 +13,7 @@
     <br></br>
     
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahbubi_Bashar&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical)
   
 
 
