@@ -11,8 +11,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi69&show_icons=true&locale=en&layout=compact" alt="mahbubi69" />
     
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p> -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahbubi_Bashar&show_icons=true&theme=radical)
+
 </p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahbubi_Bashar&show_icons=true&theme=radical)
 
 
 
