@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbubi Bashar</h1>
 <h3 align="center">A passionate Mobile developer from Indonesia 
   <br></br>
-<img align="center" alt="coding" width="600" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif">
+<img align="center" alt="coding" width="600" src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif"></h3>
  
 
 <p align="left"></p>
@@ -10,8 +10,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi69&show_icons=true&locale=en&layout=compact" alt="mahbubi69" />
     
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p> -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahbubi_Bashar&show_icons=true&theme=radical)
 </p>
 
 
- </h3>
+
