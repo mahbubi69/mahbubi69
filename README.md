@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbubi_Bashar</h1>
 <h3 align="center">A passionate Mobile developer from Indonesia 
   <br></br>
-<img align="center" alt="coding" width="800" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"></h3>
+<img align="center" alt="coding" width="500" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif"></h3>
  
 
 <p align="left"></p>
