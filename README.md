@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbubi_Bashar</h1>
 <h3 align="center">A passionate Mobile developer from Indonesia 
   <br></br>
-<img align="center" alt="coding" width="800" src="https://giphy.com/clips/loop-birthday-happy-bday-7xZ8nVAcQCbFP8PtRy"></h3>
+<img align="center" alt="coding" width="800" src="https://media1.giphy.com/media/7xZ8nVAcQCbFP8PtRy/giphy.gif?cid=82a1493b2m984ka3a37ifl2q24wp4zyj1f648eivrnen18mk&rid=giphy.gif&ct=v"></h3>
  
 
 <p align="left"></p>
