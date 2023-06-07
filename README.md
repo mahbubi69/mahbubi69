@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbubi</h1>
 <h3 align="center">A passionate Mobile developer from Indonesia 
   <br></br>
-<img align="center" alt="coding" width="600" src="https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.gif"></h3>
+<img align="center" alt="coding" width="600" src="[https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.gif](https://media.licdn.com/dms/image/D4E12AQErSPURs3cg3w/article-cover_image-shrink_720_1280/0/1681831105564?e=2147483647&v=beta&t=R1pVZBoamUaL3vmj1vFtHiha93qi9_QkaDHPMSfiXlU)"></h3>
  
 
 <p align="left"></p>
