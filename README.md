@@ -14,6 +14,7 @@ height="400"     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY4MWVmM
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical) -->
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical"/>
   
-
+<!--snake    -->
+![snake gif](https://github.com/mahbubi69/mahbubi69/blob/output/github-contribution-grid-snake.svg)
 
 
