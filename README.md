@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahbubi</h1>
 <h3 align="center">A passionate Mobile developer from Indonesia 
   <br></br>
-<img align="center" alt="coding" width="600" src="https://www.careerguide.com/career/wp-content/uploads/2021/05/connections.gif"></h3>
+<img align="center" alt="coding" width="600" 
+     src="https://www.careerguide.com/career/wp-content/uploads/2021/05/connections.gif"></h3>
  
 
 <p align="left"></p>
