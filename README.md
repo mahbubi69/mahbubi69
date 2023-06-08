@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbubi</h1>
 <h3 align="center">A passionate Mobile developer from Indonesia 
   <br></br>
-<img align="center" alt="coding" width="600" src="https://believersias.com/wp-content/uploads/2023/06/Blog-Featured-Images-GIF-7.gif"></h3>
+<img align="center" alt="coding" width="600" src="https://www.careerguide.com/career/wpcontent/uploads/2021/05/connections.gif"></h3>
  
 
 <p align="left"></p>
