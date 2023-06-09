@@ -33,7 +33,7 @@ height="400"     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY4MWVmM
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
- <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java" width="40" height="40"/> </a>  </p>
+ <img src="https://www.svgrepo.com/show/184143/java.svg" alt="Java" width="40" height="40"/> </a>  </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi69&show_icons=true&locale=en&layout=compact" alt="mahbubi69" />
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p> -->
