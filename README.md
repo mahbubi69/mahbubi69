@@ -37,7 +37,7 @@ height="400"     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY4MWVmM
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
  <img src="https://www.svgrepo.com/show/303654/java-logo.svg" alt="Java" width="40" height="40"/> </a>  </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi69&show_icons=true&locale=en&layout=compact&theme=dark" alt="mahbubi69" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi69&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahbubi69" />
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p> -->
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical) -->
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical"/>
