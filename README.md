@@ -32,10 +32,12 @@ height="400"     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY4MWVmM
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/> </a> 
     <a href="https://ai.google/" target="_blank" rel="artificial intelligence"> 
     <img src="https://www.svgrepo.com/show/373424/ai.svg" alt="selenium" width="40" height="40"/> </a> 
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
- <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="40" height="40"/> </a>  </p>
+      <a href="https://code.visualstudio.com/ target="_blank" rel="Visual Studio Code"> 
+    <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubi69&show_icons=true&locale=en&layout=compact&theme=radical" alt="mahbubi69" />
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&locale=en" alt="mahbubi69" /></p> -->
