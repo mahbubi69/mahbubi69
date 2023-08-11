@@ -47,7 +47,7 @@ height="400"     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY4MWVmM
 
   
 <!--snake    -->
-![snake gif](https://github.com/mahbubi69/mahbubi69/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/mahbubi69/mahbubi69/blob/output/github-contribution-grid-snake.svg) -->
  
 
 
