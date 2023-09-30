@@ -1,7 +1,7 @@
 <h3 align="center">A passionate Mobile developer from Indonesia </h3>
   <br></br>
 <img align="center" alt="coding"  width="700"    
-height="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/386936f9-e6e8-4ff1-a096-3ff3cebd6a57/ddx2ssf-0eeefb09-31a8-454a-bc42-23a5e87bf3e3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM4NjkzNmY5LWU2ZTgtNGZmMS1hMDk2LTNmZjNjZWJkNmE1N1wvZGR4MnNzZi0wZWVlZmIwOS0zMWE4LTQ1NGEtYmM0Mi0yM2E1ZTg3YmYzZTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.3KFrnopWgGDRKNlgIZYIt2atubQhiSFOZF-lZGTT0_I">
+height="400" src="https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif">
 
 
 
