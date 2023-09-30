@@ -1,7 +1,7 @@
-<h3 align="center">A passionate Mobile developer from Indonesia 
+<h3 align="center">A passionate Mobile developer from Indonesia </h3>
   <br></br>
 <img align="center" alt="coding"  width="700"    
-height="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif"></h3>
+height="400" src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 
 
 
