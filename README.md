@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahbubi</h1>
   <br></br>
-<img align="center" alt="coding"  width="700"    
-height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY4MWVmMTZlZWEzOGQwNjE1YWUyYzhjMGMzY2U5MWRkMzVkM2E4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bJ4TVNYNUympPgcpem/giphy.gif">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY4MWVmMTZlZWEzOGQwNjE1YWUyYzhjMGMzY2U5MWRkMzVkM2E4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bJ4TVNYNUympPgcpem/giphy.gif" height="400" />
+</div>
 
 
 
