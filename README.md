@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbubi</h1>
   <br></br>
 <div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY4MWVmMTZlZWEzOGQwNjE1YWUyYzhjMGMzY2U5MWRkMzVkM2E4YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bJ4TVNYNUympPgcpem/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmajF4NmZ6aTJ5N2Ntd213OWgyY3ozZWhuNnBidGMxNTlnbWlqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H4nUqdNomOWzJfoIa6/giphy.gif)" height="400" />
+  <img src="https://github.com/mahbubi69/mahbubi69/blob/output/github-contribution-grid-snake.svg" height="400" />
 </div>
 
 
@@ -45,8 +45,8 @@
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=mahbubi69&show_icons=true&theme=radical"/>
 
   
-<!--snake    -->
-[snake gif](https://github.com/mahbubi69/mahbubi69/blob/output/github-contribution-grid-snake.svg) 
+<!--snake   [snake gif](https://github.com/mahbubi69/mahbubi69/blob/output/github-contribution-grid-snake.svg)  -->
+
  
 
 
