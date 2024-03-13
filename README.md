@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbubi</h1>
   <br></br>
 <div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif" height="550" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/81bb4b165684019.640b6038d133e.gif" height="500" />
 </div>
 
 
